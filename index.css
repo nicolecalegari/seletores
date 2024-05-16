@@ -1,0 +1,33 @@
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: -2px;
+    }
+    
+    .red{
+      background-color: red;
+    }
+    
+    .green{
+      background-color: green;
+    }
+    
+    .blue{
+      background-color: blue;
+    
+    }
+    
+    .yellow{
+     background-color: yellow;
+    }
+    
+    #corner{
+       border: solid 2px;
+    }
+    
+    #corner:hover {
+      background-color: black;
+      }
